@@ -16,7 +16,6 @@ An object is called the instance of a class in Java. We can say that an object i
  
 ## Question 4
 What actually consists an instance of?
-
 Animal kurre = new Cat("Kurre");
 Animal vilma = new Dog("Vilma");
     
