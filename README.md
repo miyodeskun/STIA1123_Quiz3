@@ -21,7 +21,10 @@ Animal vilma = new Dog("Vilma");
 ## Question 4
 What consists a class of?
 ```
-
+Animal.java
+Cat.java
+Dog.java
+Lab1Stage2.java
 ```
     
 ## Question 5
